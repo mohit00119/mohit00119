@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Java Developer | MERN Stack Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohit+Bhagour;Java+Full+Stack+Developer;%7C+SQL+%7C+DSA;Always+Learning+New+Things)](https://git.io/typing-svg);
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Mohit+Bhagour;Java+Full+Stack+Developer;%7C+SQL+%7C+DSA;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 
 ---
